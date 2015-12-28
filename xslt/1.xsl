@@ -5,11 +5,11 @@
 
   <xsl:template match="/document">
     <xsl:copy>
-      <xsl:call-template name="copy-attributes" />
+      <xsl:copy-of select="@*" />
 
       <xsl:for-each select="paragraph">
         <xsl:copy>
-          <xsl:call-template name="copy-attributes" />
+          <xsl:copy-of select="@*" />
 
           <!-- Find cascading align and font-size attributes -->
           <xsl:variable name="align">
@@ -39,12 +39,6 @@
         </xsl:copy>
       </xsl:for-each>
     </xsl:copy>
-  </xsl:template>
-
-  <xsl:template name="copy-attributes">
-    <xsl:for-each select="@*">
-      <xsl:copy />
-    </xsl:for-each>
   </xsl:template>
 
   <xsl:template name="tokenize">

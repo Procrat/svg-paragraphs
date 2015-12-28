@@ -1,15 +1,18 @@
 <?xml version="1.0"?>
 <project>
-  <student id="1">
-    <first-name>Stijn</first-name>
-    <last-name>Seghers</last-name>
-  </student>
-  <solution>
-    <step>
-      <transformation>1.xsl</transformation>
-    </step>
-    <step></step>
-    <step></step>
-    <step></step>
-  </solution>
+    <student id="1">
+        <first-name>Stijn</first-name>
+        <last-name>Seghers</last-name>
+    </student>
+    <solution>
+        <step>
+            <transformation>1.xsl</transformation>
+        </step>
+        <!-- <step fallback=""></step> -->
+        <step>
+            <transformation>2.xsl</transformation>
+        </step>
+        <step></step>
+        <step></step>
+    </solution>
 </project>

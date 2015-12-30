@@ -106,7 +106,7 @@
       <xsl:when test="$align = 'centered'">
         <glue stretchability="{$stretchability}" shrinkability="0" width="0" />
         <penalty penalty="0" break="optional" />
-        <glue stretchability="{-3 * $nominal-glue-width}" shrinkability="0" width="{$nominal-glue-width div 2}" />
+        <glue stretchability="{-3 * $nominal-glue-width}" shrinkability="0" width="{$nominal-glue-width}" />
         <box width="0" />
         <penalty penalty="INF" break="prohibited" />
         <glue stretchability="{$stretchability}" shrinkability="0" width="0" />

@@ -21,11 +21,9 @@
             <xsl:if test="not(@line-width)"><xsl:value-of select="../@line-width" /></xsl:if>
           </xsl:variable>
 
-          <!--
-             - <content>
-             -   <xsl:call-template name="indexed-copy" />
-             - </content>
-             -->
+          <content>
+            <xsl:copy-of select="*" />
+          </content>
 
           <branches>
             <xsl:variable name="initial-branch">
@@ -42,17 +40,6 @@
         </xsl:copy>
       </xsl:for-each>
     </xsl:copy>
-  </xsl:template>
-
-  <xsl:template name="indexed-copy">
-    <xsl:for-each select="*">
-      <xsl:copy>
-        <xsl:copy-of select="node()|@*" />
-        <xsl:attribute name="index">
-          <xsl:value-of select="position()" />
-        </xsl:attribute>
-      </xsl:copy>
-    </xsl:for-each>
   </xsl:template>
 
   <xsl:template name="recursively-construct-branches">

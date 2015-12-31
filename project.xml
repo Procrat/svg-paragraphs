@@ -1,7 +1,6 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project>
-  <!-- TODO add student nr -->
-  <student id="1">
+  <student id="01100740">
     <first-name>Stijn</first-name>
     <last-name>Seghers</last-name>
   </student>
@@ -9,7 +8,6 @@
     <step>
       <transformation>1.xsl</transformation>
     </step>
-    <!-- <step fallback=""></step> -->
     <step>
       <transformation>2.xsl</transformation>
     </step>

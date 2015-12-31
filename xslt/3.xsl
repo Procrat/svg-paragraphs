@@ -16,9 +16,6 @@
 
         <xsl:copy>
           <xsl:variable name="end" select="math:max(branches/branch/@end)" />
-          <!-- <xsl:message> -->
-            <!-- End: <xsl:value-of select="$end" /> -->
-          <!-- </xsl:message> -->
 
           <xsl:call-template name="backtrack-dag">
             <xsl:with-param name="end" select="$end" />
@@ -31,14 +28,10 @@
   <xsl:template name="backtrack-dag">
     <xsl:param name="end" />
     <xsl:param name="lines" select="/.." />
-    
+
     <xsl:choose>
       <xsl:when test="$end &gt; 0">
         <xsl:variable name="branch" select="branches/branch[@end = $end]" />
-        
-        <!-- <xsl:message> -->
-          <!-- Branch: <xsl:copy-of select="$branch" /> -->
-        <!-- </xsl:message> -->
 
         <xsl:variable name="new-lines-raw">
           <line ratio="{$branch/@ratio}">
@@ -47,13 +40,9 @@
           <xsl:copy-of select="$lines" />
         </xsl:variable>
         <xsl:variable name="new-lines" select="exslt:node-set($new-lines-raw)" />
-        
-        <!-- <xsl:message> -->
-          <!-- New lines: <xsl:copy-of select="$new-lines" /> -->
-        <!-- </xsl:message> -->
 
         <xsl:call-template name="backtrack-dag">
-          <xsl:with-param name="end" select="$branch/@start" />
+          <xsl:with-param name="end" select="$branch/@previous" />
           <xsl:with-param name="lines" select="$new-lines" />
         </xsl:call-template>
       </xsl:when>
@@ -63,5 +52,5 @@
       </xsl:otherwise>
     </xsl:choose>
   </xsl:template>
-  
+
 </xsl:stylesheet>

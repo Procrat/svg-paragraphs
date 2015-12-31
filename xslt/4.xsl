@@ -10,19 +10,13 @@
 
   <xsl:template match="/document">
     <xsl:variable name="width" select="math:max(.//@line-width)" />
-    <!-- TODO: assumption that font-size remains the same for whole doc -->
-    <xsl:variable name="height" select="@font-size * (count(.//line) + count(.//paragraph) - .5)"/>
+    <xsl:variable name="font-size" select="@font-size" />
+    <xsl:variable name="height" select="$font-size * (count(.//line) + count(.//paragraph) - .5)"/>
 
     <svg width="{$width}" height="{$height}" xmlns="http://www.w3.org/2000/svg">
       <rect width="{$width}" height="{$height}" style="fill:none;stroke-width:1;stroke:rgb(0,0,0);" />
 
       <xsl:for-each select="paragraph">
-        <!-- Find cascading font-size attribute -->
-        <xsl:variable name="font-size">
-          <xsl:value-of select="@font-size" />
-          <xsl:if test="not(@font-size)"><xsl:value-of select="../@font-size" /></xsl:if>
-        </xsl:variable>
-
         <g font-family="monospace" style="font-size:{$font-size}">
           <xsl:for-each select="line">
             <text>

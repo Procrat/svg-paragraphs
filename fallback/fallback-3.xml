@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?><document align="centered" font-size="24" line-width="1000">
+<paragraph>
+<line ratio="2.7777777777777777">
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="36">Nam</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="96">pharetra</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="84">sodales</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="120">tristique.</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="36">Sed</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="36">sit</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="48">amet</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="36">leo</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="36">sit</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="48">amet</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="24">mi</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="72">auctor</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="84">mollis.</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+</line>
+<line ratio="4.111111111111111">
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="96">Praesent</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="84">iaculis</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="48">urna</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="60">ante,</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="48">eget</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="108">tincidunt</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="60">felis</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="84">commodo</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="48">nec.</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="108">Curabitur</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+</line>
+<line ratio="3.111111111111111">
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="84">dictum,</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="60">nulla</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="24">ut</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="84">aliquet</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="108">volutpat,</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="60">neque</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="72">sapien</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="84">aliquet</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="84">mauris,</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="36">non</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="72">cursus</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+</line>
+<line ratio="4.777777777777778">
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="48">elit</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="24">ex</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="36">non</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="84">tortor.</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="108">Phasellus</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="36">dui</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="60">odio,</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="84">dapibus</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="48">eget</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="48">odio</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="36">in,</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="84">dapibus</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+</line>
+<line ratio="4.444444444444445">
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="96">faucibus</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="72">lacus.</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="36">Sed</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="24">ac</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="96">ultrices</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="60">orci.</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="24">In</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="24">et</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="48">eros</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="48">quis</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="72">mauris</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="108">convallis</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+</line>
+<line ratio="3.111111111111111">
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="120">fringilla.</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="24">In</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="108">dignissim</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="60">porta</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="60">orci,</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="36">sit</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="48">amet</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="84">sodales</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="48">erat</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="84">maximus</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="36">eu.</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="48">Duis</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+</line>
+<line ratio="3.111111111111111">
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="108">fermentum</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="96">bibendum</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="60">augue</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="36">nec</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="96">feugiat.</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="60">Fusce</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="12">a</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="96">placerat</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="72">nulla.</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="84">Integer</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="48">eget</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+</line>
+<line ratio="2.7777777777777777">
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="96">vehicula</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="60">ante.</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="84">Aliquam</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="96">suscipit</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="48">enim</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="72">purus,</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="60">vitae</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="72">mattis</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="72">lectus</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="72">cursus</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="optional" penalty="0"/>
+<glue shrinkability="0" stretchability="-36" width="12"/>
+<box width="0"/>
+<penalty break="prohibited" penalty="INF"/>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<box width="48">sed.</box>
+<glue shrinkability="0" stretchability="18" width="0"/>
+<penalty break="required" penalty="-INF"/>
+</line>
+</paragraph>
+</document>
